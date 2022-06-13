@@ -1372,7 +1372,7 @@ a.mobile-show.search-bar-icon:hover {
 
 ----------------------------------------------------------------------------- */
 .hero-bg {
-  background-image: url(../img/hero-bg.jpg);
+  background-image: url(https://raw.githubusercontent.com/JRudyRay/JRudyRay/main/img/hero-bg.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -1481,7 +1481,7 @@ input[type="submit"] {
 }
 
 .homepage-bg-1 {
-  background-image: url(../img/hero-bg.jpg);
+  background-image: url(https://raw.githubusercontent.com/JRudyRay/JRudyRay/main/img/hero-bg.jpg);
 }
 
 .homepage-bg-2 {
@@ -2190,11 +2190,11 @@ a.video-play-btn {
 }
 
 .team-bg-1 {
-  background-image: url(../img/team/team-1.jpg);
+  background-image: url(https://raw.githubusercontent.com/JRudyRay/JRudyRay/main/img/team-1.jpg);
 }
 
 .team-bg-2 {
-  background-image: url(../img/team/team-2.jpg);
+  background-image: url(https://raw.githubusercontent.com/JRudyRay/JRudyRay/main/img/team-2.jpg);
 }
 
 .team-bg-3 {
