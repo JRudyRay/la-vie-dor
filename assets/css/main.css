@@ -623,7 +623,7 @@ nav.main-menu > ul li:last-child {
 .site-logo {
   float: left;
   margin: 0 0%;
-  max-width: 85px;
+  max-width: 80px;
 }
 /*
 ul.sub-menu li:last-child {
@@ -2173,12 +2173,38 @@ a.video-play-btn {
   margin-bottom: 100px;
 }
 
+
 .feature-bg:after {
   background-image: url(../img/feature-bg.jpg);
   position: absolute;
-  right: 50px;
+  right: 100px;
   top: 0;
-  width: 40%;
+  width: 38%;
+  height: 100%;
+  content: "";
+  background-size: cover;
+  background-position: center;
+  border-top-left-radius: 8px;
+  -webkit-box-shadow: 0 0 6px #cacaca;
+  box-shadow: 0 0 20px #cacaca;
+  border-bottom-left-radius: 8px;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+.feature-bg2 {
+  position: relative;
+  margin-top: 0px;
+  margin-bottom: 100px;
+}
+
+
+.feature-bg2:after {
+  background-image: url(../img/feature-bg3.jpg);
+  position: absolute;
+  right: 100px;
+  top: 0;
+  width: 38%;
   height: 100%;
   content: "";
   background-size: cover;
