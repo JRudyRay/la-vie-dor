@@ -623,7 +623,7 @@ nav.main-menu > ul li:last-child {
 .site-logo {
   float: left;
   margin: 0 0%;
-  max-width: 80px;
+  max-width: 60px;
 }
 /*
 ul.sub-menu li:last-child {
@@ -875,7 +875,7 @@ a.mobile-show {
 }
 
 .footer-area {
-  background-color: #9d2549;
+  background-color: #a02d4ff1;
   color: #fff;
   padding: 70px 0;
 }
